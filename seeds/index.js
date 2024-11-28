@@ -1,3 +1,4 @@
+// WARNING: This file is not recommended to run. Proceed with caution.
 const mongoose = require('mongoose');
 const cities = require('./cities');
 const Campground = require('../models/campground');
